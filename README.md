@@ -1,2 +1,2 @@
-# Logistic-Refression-with-Mini-Batch-Gradient-Descent
+# Logistic-Regression-with-Mini-Batch-Gradient-Descent
 Using numpy library in Python, logistic regression algorithm was performed with the option of seperating mini-batch to increase speed and efficiency. Activation function was selected as sigmoid function. The threshold is 0.5 which means that if the prediction is under 0.5, it is rounded to 0 and, therefore, if the prediction is equal and above 0.5, it is rounded to 1.
